@@ -1,0 +1,54 @@
+<!--
+  ~ Copyright (C) 2015 Paul Burke
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">ItemTouchHelper Demo</string>
+
+    <array name="main_items">
+        <item>List - Basic Drag and Swipe</item>
+        <item>Grid - Basic Swipe</item>
+    </array>
+
+    <array name="dummy_items">
+        <item>开始</item>
+        <item>周杰伦</item>
+        <item>林俊杰</item>
+        <item>吴秀波</item>
+        <item>范冰冰</item>
+        <item>刘德华</item>
+        <item>张惠妹</item>
+        <item>张磊</item>
+        <item>冯小刚</item>
+        <item>林青霞</item>
+        <item>刘慧雯</item>
+        <item>张嘉译</item>
+        <item>李荣浩</item>
+        <item>李白</item>
+        <item>阿里</item>
+        <item>张宇</item>
+        <item>张礼物</item>
+        <item>张学友</item>
+        <item>阿悄</item>
+        <item>许晴</item>
+        <item>许嵩</item>
+        <item>薛之谦</item>
+        <item>张杰</item>
+        <item>黄安</item>
+        <item>李大有</item>
+        <item>孙二娃</item>
+        <item>铁柱子</item>
+        <item>设置</item>
+    </array>
+</resources>
